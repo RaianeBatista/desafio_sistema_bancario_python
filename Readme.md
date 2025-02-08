@@ -1,5 +1,9 @@
 # Desafio: Criando um Sistema Bancário com Python
 
+Este desafio faz parte de uma atividade do **Bootcamp** que estou realizando na plataforma da [DIO (Digital Innovation One)](https://www.dio.me/), em parceria com a empresa **Suzano**.
+
+## Objetivo do Projeto
+
 Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e, para isso, escolheu a linguagem Python. Para a primeira versão do sistema, devemos implementar apenas 3 operações: **depósito**, **saque** e **extrato**.
 
 ## Operação de Depósito
@@ -23,4 +27,4 @@ Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse 
 
 ---
 
-Este projeto é a primeira versão de um sistema bancário simples, desenvolvido em Python, com foco nas operações básicas de depósito, saque e extrato.
+Este projeto é a primeira versão de um sistema bancário simples, desenvolvido em Python, com foco nas operações básicas de depósito, saque e extrato. Ele foi desenvolvido como parte do Bootcamp da DIO em parceria com a Suzano, com o objetivo de aprimorar minhas habilidades em programação Python e lógica de programação.
